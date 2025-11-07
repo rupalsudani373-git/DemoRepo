@@ -7,6 +7,6 @@ public class LoginPage {
 	}
 	public void loginset()
 	{
-		System.out.println("login set");
+		System.out.println("login set1");
 	}
 }
